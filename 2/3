@@ -1,0 +1,71 @@
+<center>##INVESTMENT MANAGEMENT AGREEMENT</center>
+This Investment Management Agreement (this “<u>Agreement</u>”) is made as of {{date.now | date('MMMM DD, YYYY')}} between **{{ carta.fund_name }}** (the “<u>Partnership</u>”) and **{{ carta.management_company_name }}** (the “<u>Management Company</u>”).
+The parties hereto hereby agree as follows:
+
+1. **Definitions**.  Terms defined in the Partnership’s Limited Partnership Agreement (as amended and/or restated from time to time, the “<u>Partnership Agreement</u>”) that are used, but not otherwise defined, herein shall have the meanings ascribed to them in the Partnership Agreement.
+1. **Services to be Rendered by the Management Company to Partnership.**  Subject always to the direction and control of {{ carta. gp_entity_name }} (the “<u>General Partner</u>”), the Management Company shall:
+    -furnish advice to the Partnership regarding investments of the type contemplated by the Partnership Agreement and locate, secure information with respect to, and evaluate prospective investment opportunities of such type and make recommendations regarding the purchase of investments;
+    -structure and negotiate investments on behalf of the Partnership, review and assist in the preparation of all documentation, and attempt to consummate investments that the Partnership has determined to pursue;
+    -monitor investments, review all documentation with respect to, and attempt to consummate, dispositions of investments that the Partnership has determined to dispose; 
+    -perform the day-to-day investment operations of the Partnership and supervise the management of the Partnership’s investments (and the exercise of the Partnership’s rights and remedies with respect to such investments);
+    -cooperate with the Partnership’s service providers and supply such service providers with the information and instructions as may be necessary to enable such person or persons to perform their duties in accordance with the applicable agreements; and
+    -furnish such office space, office supplies and equipment, and such bookkeeping, record keeping and clerical services to the Partnership as the Partnership may require for its reasonable needs.
+   The Management Company shall at all times be an independent contractor and nothing in this Agreement shall be construed to constitute the Management Company as an agent or partner of the Partnership.
+1. **Other Services and Activities.**  Subject to the terms of the Partnership Agreement, the Management Company and its members, officers, employees, board members and partners, and entities in which the majority of the economic interests are owned by one or more of them (collectively, the “<u>Management Company Group</u>”) may, from time to time, serve on the boards of directors and provide management, advisory, consulting, investment banking and other services to other entities, including other pooled investment vehicles, as well as entities in which the Partnership has made, or proposes to make, an investment, and may receive fees or other compensation for, and be reimbursed for expenses incurred in connection with, such activities and services from such entities and from other persons, other than the Partnership.  Except as otherwise provided in the Partnership Agreement, no member of the Management Company Group shall be required to remit any fees or other amounts received in connection with such activities or services to the Partnership.
+1. **Expenses**.  The Management Company will assume and pay its own expenses on account of rent, utilities, insurance (other than premiums for insurance covering Protected Persons under Section 7.5 of the Partnership Agreement), office supplies, office equipment, travel, entertainment, and compensation and expenses of its officers, directors and employees and other routine administrative expenses that relate to the services and facilities provided to the Partnership pursuant to <u>Section 2</u>; provided, however, that the Management Company shall not be required to pay (and if paid by the Management Company, the Management Company shall be reimbursed by the Partnership for payments of) fees and expenses related to the business of the Partnership described as expenses to be borne by the Partnership in Sections 8.2(b) and (c) of the Partnership Agreement.  The Management Company shall not be obligated to pay any expenses of or for the Partnership not contemplated to be paid by the Management Company by this Section 4.
+1. **Payments to be Made by Partnership.**
+    -As full compensation for the services rendered, the facilities furnished and the expenses borne by the Management Company pursuant to the terms of this Agreement, the Partnership shall pay the Management Company a management fee (the “<u>Management Fee</u>”). The Management Fee shall be payable and shall be calculated in the same manner as the Management Fee defined in Section 8.1(a) of the Partnership Agreement.    
+    -The Management Company acknowledges and agrees that pursuant to Section 8.1(d) of the Partnership Agreement, the Management Company may, in its discretion, elect to waive, reduce or defer the payment of some or all of the Management Fee.
+1. **Other Interest of Partners, Executives and Management Company**.  It is understood that (a) any member of the Partnership, any member, officer or employee of the General Partner or its affiliates, may be a member, officer, employee or board member of, or be otherwise interested in, the Management Company, any organization in which the Management Company may have an interest or any organization which may have an interest in the Management Company, (b) the Management Company and any such organization may have an interest in the Partnership, and (c) the respective members, officers, employees, board members and affiliates of the Management Company and the General Partner may act as directors of or provide consulting or other services to one or more of the entities in which the Partnership has made an investment.  It is also understood that the Management Company and its members, officers, employees, board members and affiliates (and their respective members, officers and employees) render, and in the future will render, investment advice and other services to entities other than the Partnership, including entities that may: (i) utilize the same strategies as the Partnership; (ii) invest alongside the Partnership on a side-by-side basis in some or all of the investments made by the Partnership; and/or (iii) purchase investments from, or sell investments to, the Partnership.  It is further understood that the Partnership may, from time to time, purchase investments from, or sell investments to, such other entities or accounts managed by the Management Company or its affiliates, in the discretion of the Management Company or its affiliates.
+1. **Indemnification.**  The Management Company and each of its directors, officers, members, partners, stockholders, controlling persons, employees and board members shall be deemed to be a Protected Person pursuant to Section 7.3 of the Partnership Agreement and shall be entitled to the benefits of the provisions of Sections 7.3 and 7.4 of the Partnership Agreement, which shall be enforceable by each of them as if such person were a party thereto.
+1. **Custodial Relationships**.  The assets of the Partnership shall be held in the custody of a bank, trust company, brokerage firm or other entity chosen by the Partnership.  The Partnership shall be responsible for any custodial arrangements and the payment of all custodial charges and fees, and the Management Company shall have no responsibility or liability with respect to the acts, omissions or other conduct of the custodian.
+1. **Successors**.  This Agreement shall be binding upon and shall inure to the benefit of the parties hereto and their respective heirs, successors and assigns; provided, however, that the Management Company may not assign this Agreement except as provided in Section 12.
+1. **Effective Period**.  This Agreement shall become effective upon its execution, and shall remain in effect until the Partnership is dissolved, wound up and terminated, unless terminated earlier by either party hereto on 60 days’ prior written notice.
+1. **Entire Agreement**.  This Agreement, including the agreement(s) referred to herein, including the Partnership Agreement, supersedes any and all oral or written agreements heretofore made relating to the subject matter hereof and constitutes the entire agreement of the parties relating to the subject matter hereof.
+1. **Assignment**.  The Management Company shall not assign any of its rights or duties hereunder except as permitted under the Investment Advisers Act of 1940, as amended, and the rules promulgated thereunder.
+1. **Notices**.  Any notice or other communication given under this Agreement shall be deemed to have been given if given in writing (including email or other electronic means) addressed as provided below or to the addressee at such other address as the addressee shall have specified by notice actually received by the addressor, and if either (a) actually delivered in fully legible form to such address or (b) in the case of a letter, five days shall have elapsed after the same shall have been deposited in the United States mails, with first-class postage prepaid and registered or certified.  
+
+    If to the Management Company, to it at:
+    <center>{{ carta.management_company_name }}
+    <center>{{ managementCompanySignatory.address_line_1 }}, {{ managementCompanySignatory.address_line_2 }}
+    <center>{{ managementCompanySignatory.city }}, {{ managementCompanySignatory.state }} {{ managementCompanySignatory.postal_code }}
+    <center>Attention: {{ managementCompanySignatory.name }}
+    <center>Email: {{ managementCompanySignatory.email }}
+    <br>
+    If to the Partnership, to it at:
+
+    <center>{{ carta.fund_name }}
+    <center>{{ gpSignatory.address_line_1 }}, {{ gpSignatory.address_line_2 }}
+    <center>{{ gpSignatory.city }}, {{ gpSignatory.state }} {{ gpSignatory.postal_code }}
+    <center>Attention: {{ gpSignatory.name }}
+    <center>Email: {{ gpSignatory.email }}
+    <br>
+1. **Amendments; Waivers**. This Agreement may be altered or amended, and any provisions hereof may be waived, only upon the written approval of the Management Company and the Partnership.
+1. **Governing Law**.  This Agreement shall be governed by and construed in accordance with the laws of Delaware.
+1. **Headings**.  The headings in this Agreement are inserted for convenience of reference only and shall not be a part of or control or affect the meaning hereof.
+1. **Counterparts**.  This Agreement may be executed in more than one counterpart with the same effect as if the parties executing the several counterparts had all executed one counterpart.
+
+
+[new-page]
+IN WITNESS WHEREOF, each of the undersigned has caused this Agreement to be duly executed and delivered as an agreement under seal as of the date first above written. 
+<br>
+
+**{{ carta.fund_name }}**
+By: {{ carta.gp_entity_name }}, its general partner
+
+[signature-single="gpSignatory"]
+____________________________________
+By: {{ gpSignatory.name }}
+Title:	{{ gpSignatory.title }}
+<br>
+<br>
+
+**{{ carta.management_company_name }}**
+
+[signature-single="managementCompanySignatory"]
+____________________________________
+By: {{ managementCompanySignatory.name }}
+Title:	{{ managementCompanySignatory.title }}
+
+
+
